@@ -1,5 +1,5 @@
 { 
-  "repositoryUrl":"https://github.com/gdelpu/test_semantic-release.git",
+  "repositoryUrl":"https://github.com/gdelpu/semantic_release-test.git",
     "branches": [
      {"name":"develop", "channel":"release-candidate",  "prerelease": "beta"},
      "master"],
