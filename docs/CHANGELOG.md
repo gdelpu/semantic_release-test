@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/gdelpu/semantic_release-test/compare/v1.2.0...v2.0.0) (2022-09-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* blabla
+* feature4
+
+### Features
+
+* feature4 ([3ac9709](https://github.com/gdelpu/semantic_release-test/commit/3ac9709380604d53c7e0d3c8b859ed8de9a954c8))
+* feature4 ([324a86c](https://github.com/gdelpu/semantic_release-test/commit/324a86c3d56093faa6d891ddc10ea19b7a4c6a15))
 
 ## [1.2.0](https://github.com/gdelpu/semantic_release-test/compare/v1.1.0...v1.2.0) (2022-09-01)
 
