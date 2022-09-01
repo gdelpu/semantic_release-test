@@ -13,6 +13,7 @@
   "author": "gdelpu (gregory.delpu@soprasteria.com)",
   "license": "ISC",
   "devDependencies": {
+    "@saithodev/semantic-release-backmerge": "^2.1.2",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^5.0.0",
